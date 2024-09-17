@@ -1,0 +1,9 @@
+platforms = []
+game_started = False
+game_over = False
+game_win = False
+sound_enabled = True
+level_map = []
+level_now = 1
+enemies = []
+coins = []
